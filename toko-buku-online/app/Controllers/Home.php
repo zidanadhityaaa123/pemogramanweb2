@@ -22,7 +22,6 @@ class Home extends BaseController
     public function submit(){
         return view('submit');
     }
-
-
+    
 
 }
